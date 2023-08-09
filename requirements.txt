@@ -1,2 +1,7 @@
 #requirements.txt
 snowflake-connector-python
+
+numpy
+pandas
+plotly.express
+streamlit
